@@ -22,4 +22,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Mock-up
+![image](https://user-images.githubusercontent.com/121911679/222973102-7dbefcf9-65d7-4c9b-a133-a4d315967b66.png)
+
+Link to deployed site: https://sukhsingh96.github.io/workday-scheduler/
 
